@@ -15,6 +15,7 @@ Download git client
 	git add <filename>
 6. Commit 
 	'git commit -m "added more commands"
-7.Push the changes to your remote repo `git push https://github.com/surekhamaddi/HyderabadCDTraining.git'
-git status
-git commit
+7.Push the changes to your remote repo 
+	`git push https://github.com/surekhamaddi/HyderabadCDTraining.git'
+	'git push --set-upstream https://github.com/surekhamaddi/HyderabadCDTraining.git master'
+
