@@ -13,6 +13,7 @@ Download git client
 4. Add some txt into it
 5. Type following git commands
 	git add <filename>
+	git add ReadMe.md
 6. Commit 
 	'git commit -m "added more commands"
 7.Push the changes to your remote repo 
